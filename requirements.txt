@@ -9,3 +9,5 @@ pymupdf
 wikipedia
 langchain-text-splitters
 pypdfium2
+langchain-openai
+chromadb
