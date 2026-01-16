@@ -6,3 +6,8 @@ Lenv/
 
 # Environment variables
 .env
+
+# Vector databases
+faiss_index/
+*.faiss
+*.pkl
